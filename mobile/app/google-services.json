@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "162297317738",
+    "firebase_url": "https://fatecnet-b3ea1.firebaseio.com",
+    "project_id": "fatecnet-b3ea1",
+    "storage_bucket": "fatecnet-b3ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162297317738:android:08444e41695afdb9",
+        "android_client_info": {
+          "package_name": "br.gov.sp.fatec.fatecnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162297317738-90eh6j1a6v83lr4a029g3udgltuf04cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.gov.sp.fatec.fatecnet",
+            "certificate_hash": "560e05c15a8c6564453e37f7ee1adfe151016546"
+          }
+        },
+        {
+          "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oH9AB11d-EwRtDEOEEXSueTJ--LB-as"
+        },
+        {
+          "current_key": "AIzaSyAowffsGmGGFMVxN_7HYOaz_mm9LY4ntU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162297317738:android:fb8d90987037c5d9",
+        "android_client_info": {
+          "package_name": "fatec.fatecnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162297317738-2r4oa2psmtk50csu9ge1qomurmf6ivmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fatec.fatecnet",
+            "certificate_hash": "560e05c15a8c6564453e37f7ee1adfe151016546"
+          }
+        },
+        {
+          "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oH9AB11d-EwRtDEOEEXSueTJ--LB-as"
+        },
+        {
+          "current_key": "AIzaSyAowffsGmGGFMVxN_7HYOaz_mm9LY4ntU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162297317738:android:146e5be4c39c673a",
+        "android_client_info": {
+          "package_name": "br.com.fatec.fatecnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162297317738-nqvm3ihrsus4190vjfc8d9jgkt0ai7dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fatec.fatecnet",
+            "certificate_hash": "560e05c15a8c6564453e37f7ee1adfe151016546"
+          }
+        },
+        {
+          "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1oH9AB11d-EwRtDEOEEXSueTJ--LB-as"
+        },
+        {
+          "current_key": "AIzaSyAowffsGmGGFMVxN_7HYOaz_mm9LY4ntU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162297317738-jh9qime24u9rida7nh286pcrqmgvb7kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

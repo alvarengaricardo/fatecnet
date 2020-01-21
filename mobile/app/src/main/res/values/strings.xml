@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FatecNet</string>
+    <string name="erroRequerimento">Falha ao enviar requerimento. Tente novamente.</string>
+    <string name="sucessoRequerimento">Requerimento enviado com sucesso</string>
+    <string name="erroEmail"></string>
+    <string name="sucessoEmail">E-mail enviado com sucesso.</string>
+</resources>
